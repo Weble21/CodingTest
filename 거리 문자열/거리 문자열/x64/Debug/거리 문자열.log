@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\Donggeon\Desktop\SWEA\거리 문자열\거리 문자열\소스.cpp(26,3): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  거리 문자열.vcxproj -> C:\Users\Donggeon\Desktop\SWEA\거리 문자열\x64\Debug\거리 문자열.exe
