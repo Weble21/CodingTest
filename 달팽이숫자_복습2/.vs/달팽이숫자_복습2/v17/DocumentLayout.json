@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Donggeon\\source\\repos\\\uB2EC\uD33D\uC774\uC22B\uC790_\uBCF5\uC2B52\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C83439-AB55-4946-BCC0-A2F9B6F4FC2D}|\uB2EC\uD33D\uC774\uC22B\uC790_\uBCF5\uC2B52\\\uB2EC\uD33D\uC774\uC22B\uC790_\uBCF5\uC2B52.vcxproj|C:\\Users\\Donggeon\\source\\repos\\\uB2EC\uD33D\uC774\uC22B\uC790_\uBCF5\uC2B52\\\uB2EC\uD33D\uC774\uC22B\uC790_\uBCF5\uC2B52\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8C83439-AB55-4946-BCC0-A2F9B6F4FC2D}|\uB2EC\uD33D\uC774\uC22B\uC790_\uBCF5\uC2B52\\\uB2EC\uD33D\uC774\uC22B\uC790_\uBCF5\uC2B52.vcxproj|solutionrelative:\uB2EC\uD33D\uC774\uC22B\uC790_\uBCF5\uC2B52\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\Donggeon\\source\\repos\\\uB2EC\uD33D\uC774\uC22B\uC790_\uBCF5\uC2B52\\\uB2EC\uD33D\uC774\uC22B\uC790_\uBCF5\uC2B52\\FileName.cpp",
+              "RelativeDocumentMoniker": "\uB2EC\uD33D\uC774\uC22B\uC790_\uBCF5\uC2B52\\FileName.cpp",
+              "ToolTip": "C:\\Users\\Donggeon\\source\\repos\\\uB2EC\uD33D\uC774\uC22B\uC790_\uBCF5\uC2B52\\\uB2EC\uD33D\uC774\uC22B\uC790_\uBCF5\uC2B52\\FileName.cpp",
+              "RelativeToolTip": "\uB2EC\uD33D\uC774\uC22B\uC790_\uBCF5\uC2B52\\FileName.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-01T13:36:04.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
