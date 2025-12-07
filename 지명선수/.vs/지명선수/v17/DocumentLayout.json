@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Donggeon\\Desktop\\SWEA\\\uC9C0\uBA85\uC120\uC218\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98474126-AAA8-4446-9134-30A96F6269A3}|\uC9C0\uBA85\uC120\uC218\\\uC9C0\uBA85\uC120\uC218.vcxproj|C:\\Users\\Donggeon\\Desktop\\SWEA\\\uC9C0\uBA85\uC120\uC218\\\uC9C0\uBA85\uC120\uC218\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98474126-AAA8-4446-9134-30A96F6269A3}|\uC9C0\uBA85\uC120\uC218\\\uC9C0\uBA85\uC120\uC218.vcxproj|solutionrelative:\uC9C0\uBA85\uC120\uC218\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\Donggeon\\Desktop\\SWEA\\\uC9C0\uBA85\uC120\uC218\\\uC9C0\uBA85\uC120\uC218\\FileName.cpp",
+              "RelativeDocumentMoniker": "\uC9C0\uBA85\uC120\uC218\\FileName.cpp",
+              "ToolTip": "C:\\Users\\Donggeon\\Desktop\\SWEA\\\uC9C0\uBA85\uC120\uC218\\\uC9C0\uBA85\uC120\uC218\\FileName.cpp",
+              "RelativeToolTip": "\uC9C0\uBA85\uC120\uC218\\FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T12:50:31.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
