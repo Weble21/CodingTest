@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "원재의 메모리 복구하기", "원재의 메모리 복구하기\원재의 메모리 복구하기.vcxproj", "{20401C1E-0B5D-4B7B-8419-0145D1A45C2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20401C1E-0B5D-4B7B-8419-0145D1A45C2D}.Debug|x64.ActiveCfg = Debug|x64
+		{20401C1E-0B5D-4B7B-8419-0145D1A45C2D}.Debug|x64.Build.0 = Debug|x64
+		{20401C1E-0B5D-4B7B-8419-0145D1A45C2D}.Debug|x86.ActiveCfg = Debug|Win32
+		{20401C1E-0B5D-4B7B-8419-0145D1A45C2D}.Debug|x86.Build.0 = Debug|Win32
+		{20401C1E-0B5D-4B7B-8419-0145D1A45C2D}.Release|x64.ActiveCfg = Release|x64
+		{20401C1E-0B5D-4B7B-8419-0145D1A45C2D}.Release|x64.Build.0 = Release|x64
+		{20401C1E-0B5D-4B7B-8419-0145D1A45C2D}.Release|x86.ActiveCfg = Release|Win32
+		{20401C1E-0B5D-4B7B-8419-0145D1A45C2D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D796EEA-0AB1-485A-B639-2767817BC536}
+	EndGlobalSection
+EndGlobal
