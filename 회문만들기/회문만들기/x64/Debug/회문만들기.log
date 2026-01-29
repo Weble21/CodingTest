@@ -1,0 +1,13 @@
+﻿  FileName.cpp
+C:\Users\Donggeon\Desktop\SWEA\회문만들기\회문만들기\FileName.cpp(23,8): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Donggeon\Desktop\SWEA\회문만들기\회문만들기\FileName.cpp(9,10): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+      C:\Users\Donggeon\Desktop\SWEA\회문만들기\회문만들기\FileName.cpp(9,10):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\Donggeon\Desktop\SWEA\회문만들기\회문만들기\FileName.cpp(57,7):
+          컴파일되는 함수 템플릿 인스턴스화 'bool chkHM<std::string>(const T &)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=std::string
+          ]
+  
+  회문만들기.vcxproj -> C:\Users\Donggeon\Desktop\SWEA\회문만들기\x64\Debug\회문만들기.exe
